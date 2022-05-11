@@ -161,7 +161,7 @@ li .nav-link:hover {
 
 /* Second-section */
 
-p {
+.section-3 p {
 white-space:normal;
 max-width: 220px;
 }
@@ -234,6 +234,28 @@ max-width: 220px;
     text-decoration: underline;
 }
 /* Second-section */
+.section3-text {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+.section3-text2 {
+    color: #616972;
+    font-size: 16px;
+    line-height: 28px;
+    padding-right: 100px;
+}
+
+/* .section3-cards p {
+    color: #616972
+    font-size: 14px;
+    line-height: 25px;
+} */
+
+.section5 {
+    background-color: #f1f3f5;
+}
 /* section-6 */
 .sec-6{
     background-color:  #F4F7FD;
@@ -256,6 +278,7 @@ max-width: 220px;
     /* right: 10px; */
     margin-right: -380px !important;
 }
+
 /* section-6 */
 @media (min-width:0px) and (max-width:767px){
     .card {
